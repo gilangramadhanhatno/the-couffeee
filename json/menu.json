@@ -1,0 +1,190 @@
+{
+  "menu": [
+    {
+      "kategori": "coffee",
+      "nama": "Espresso",
+      "harga": 15000,
+      "gambar": "../images/coffee/espresso.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Americano",
+      "harga": 18000,
+      "gambar": "../images/coffee/americano.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "White Coffee",
+      "harga": 22000,
+      "gambar": "../images/coffee/white-coffee.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Mochaccino",
+      "harga": 25000,
+      "gambar": "../images/coffee/mochaccino.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Coffee Milk Original",
+      "harga": 18000,
+      "gambar": "../images/coffee/coffee-milk-original.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Espresso Tonic",
+      "harga": 15000,
+      "gambar": "../images/coffee/espresso-tonic.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Affogato",
+      "harga": 23000,
+      "gambar": "../images/coffee/affogato.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Salted Coffee",
+      "harga": 22000,
+      "gambar": "../images/coffee/salted-coffee.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Creamy Coffee Spritz",
+      "harga": 25000,
+      "gambar": "../images/coffee/creamy-coffee-spritz.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Cold Brew",
+      "harga": 25000,
+      "gambar": "../images/coffee/cold-brew.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Chocolate",
+      "harga": 25000,
+      "gambar": "../images/non-coffee/chocolate.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Babyccino",
+      "harga": 20000,
+      "gambar": "../images/non-coffee/babyccino.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "English Breakfast Tea",
+      "harga": 18000,
+      "gambar": "../images/non-coffee/english-breakfast-tea.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Lemon Tea",
+      "harga": 20000,
+      "gambar": "../images/non-coffee/lemon-tea.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Thai Tea",
+      "harga": 22000,
+      "gambar": "../images/non-coffee/thai-tea.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Adni Tea",
+      "harga": 25000,
+      "gambar": "../images/non-coffee/adni-tea.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Matcha Latte",
+      "harga": 23000,
+      "gambar": "../images/non-coffee/matcha-latte.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Matchagato",
+      "harga": 27000,
+      "gambar": "../images/non-coffee/matchagato.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Mojito",
+      "harga": 22000,
+      "gambar": "../images/non-coffee/mojito.jpg"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Lechee Milk Tea",
+      "harga": 22000,
+      "gambar": "../images/non-coffee/lechee-milk-tea.jpg"
+    },
+    {
+      "kategori": "meals",
+      "nama": "Turkish Rice",
+      "harga": 30000,
+      "gambar": "../images/meals/turkish-rice.jpg"
+    },
+    {
+      "kategori": "meals",
+      "nama": "Lamb Kabsah",
+      "harga": 40000,
+      "gambar": "../images/meals/lamb-kabsah.jpg"
+    },
+    {
+      "kategori": "meals",
+      "nama": "Chicken Oat Porridge",
+      "harga": 15000,
+      "gambar": "../images/meals/chicken-oat-porridge.jpg"
+    },
+    {
+      "kategori": "meals",
+      "nama": "Beef Oat Porridge(Narissa)",
+      "harga": 15000,
+      "gambar": "../images/meals/beef-oat-porridge(narissa).jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "French Fries",
+      "harga": 15000,
+      "gambar": "../images/other-nourishment/french-fries.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Burger",
+      "harga": 22000,
+      "gambar": "../images/other-nourishment/burger.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Tuna Sanwich",
+      "harga": 20000,
+      "gambar": "../images/other-nourishment/tuna-sanwich.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Toast",
+      "harga": 18000,
+      "gambar": "../images/other-nourishment/toast.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Chicken Stick",
+      "harga": 15000,
+      "gambar": "../images/other-nourishment/chicken-stick.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Waffle",
+      "harga": 12000,
+      "gambar": "../images/other-nourishment/waffle.jpg"
+    },
+    {
+      "kategori": "other nourishment",
+      "nama": "Delicious Black n White",
+      "harga": 28000,
+      "gambar": "../images/other-nourishment/delicious-black-white.jpg"
+    }
+  ]
+}
